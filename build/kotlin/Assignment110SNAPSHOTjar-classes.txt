@@ -1,0 +1,1 @@
+C:\Users\user\IdeaProjects\Assignment1\build\classes\kotlin\main\MainKt$main$Person.class;C:\Users\user\IdeaProjects\Assignment1\build\classes\kotlin\main\MainKt.class
